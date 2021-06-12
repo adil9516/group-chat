@@ -1,0 +1,14 @@
+.message{
+    font-size: medium;
+    margin:10px;
+    width:fit-content
+}
+.message-user{
+    margin-left:auto;
+    color:white !important;
+    text-align:left !important;
+    background-color: blue !important;
+}
+.message-guestuser{
+    background-color: whitesmoke !important;
+}
